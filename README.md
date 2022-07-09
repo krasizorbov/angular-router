@@ -1,8 +1,7 @@
 
 ## Angular Router In Depth
 
-This course repository is updated to Angular v14.
-
+This repository is updated to Angular v14.
 
 # Installation pre-requisites
 
@@ -17,18 +16,13 @@ With the following command the angular-cli will be installed globally in your ma
 
 # How To install this repository
     
-This repository is made of several separate npm modules, that are installable separately. For example, to run the au-input module, we can do the following:
-    
-    cd angular-router-course
-    npm install
-
-Its also possible to install the modules as usual using npm:
+Its possible to install the modules as usual using npm:
 
     npm install 
 
 NPM 5 or above has the big advantage that if you use it you will be installing the exact same dependencies than I installed in my machine, so you wont run into issues caused by semantic versioning updates.
 
-This should take a couple of minutes. If there are issues, please post the complete error message in the Questions section of the course.
+This should take a couple of minutes.
 
 # To Run the Development Backend Server
 
