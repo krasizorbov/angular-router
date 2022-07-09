@@ -1,5 +1,5 @@
 
-## Angular Router In Depth Course
+## Angular Router In Depth
 
 This course repository is updated to Angular v14.
 
